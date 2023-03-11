@@ -4,7 +4,7 @@ manifest:
       url-base: https://github.com/caksoylar
   projects:
     - name: zmk
-      remote: zmkfirmware
+      remote: caksoylar
       revision: add-zen-v1
       import: app/west.yml
   self:
